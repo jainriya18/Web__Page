@@ -16,7 +16,7 @@
 .container {
     width: 100%;
     height: 100vh;
-    background: var(--light_bg) url("file:///C:/Users/senma/OneDrive/Desktop/Riya%20Jain/img/Vectors_light.svg") no-repeat bottom;
+    background: var(--light_bg) url("img/Vectors_light.svg") no-repeat bottom;
     background-size: 100% auto;
     background-attachment: fixed;
     display: flex;
@@ -166,7 +166,7 @@ input[type="submit"] {
 .container_dark {
     width: 100%;
     height: 100vh;
-    background: var(--dark_bg) url("file:///C:/Users/senma/OneDrive/Desktop/Riya%20Jain/img/Vectors_light.svg") no-repeat bottom;
+    background: var(--dark_bg) url("img/Vectors_light.svg") no-repeat bottom;
     background-size: 100% auto;
     background-attachment: fixed;
     display: flex;
